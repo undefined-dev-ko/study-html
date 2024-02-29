@@ -2,4 +2,6 @@
 html 스터디용 
 
 
-### asdasd
+git add * 
+git commit -m "커미세시지"
+git push origin main
